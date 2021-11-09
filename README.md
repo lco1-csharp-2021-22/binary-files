@@ -40,7 +40,18 @@ The code should first validate that it is actually a bitmap.
 
 This summary should include: dimensions, colour summary and so on. 
 
+## Reminder 
+
+1. Clone this repo to your local machine - you should have a root folder for all the GitHub assignment clones 
+1. Create a Visual Studio solution in the sub-folder for this clone - you should notice in Github Desktop that these new files appear in the changes list. (NB. I've nominated this repo as a Visual Studio one, so all the extra temporary files and folders, e.g. including all the build files, shouldn't get uploaded - that saves on space.)
+1. Add the graphics files to the project - make sure to update their Copy To Output property to "newer" or "always" 
+2. Away you go! 
+
 ## Extension
+
+### 0. AdventOfCode 
+
+On Wednesday lunchtime the Competive Coding Group will be looking at [Puzzle 12 from 2017](https://adventofcode.com/2017/day/12) as they prepare for this year's Advent of Code. Do feel free to look at that puzzle instead and leave this assignment until tomorrow/homework (if you're sure about what's needed). 
 
 ### 1. Steganography 
 
